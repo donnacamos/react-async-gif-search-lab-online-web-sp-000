@@ -7,3 +7,5 @@ const GifList = props => {
     </div>
   )
 }
+
+export default GifList 
