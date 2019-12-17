@@ -21,4 +21,4 @@ class GifSearch extends Component {
   }
 }
 
-export default GifSearch 
+export default GifSearch
